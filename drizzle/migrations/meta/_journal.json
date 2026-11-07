@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791094833294,
+      "tag": "0000_idea_moderation",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791261039962,
+      "tag": "0001_grant_student_presence",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791354681823,
+      "tag": "0002_teacher_presence_fn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791511410801,
+      "tag": "0003_presence_v2_stable_peers",
+      "breakpoints": true
+    }
+  ]
+}
